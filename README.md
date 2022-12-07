@@ -18,9 +18,11 @@ Using the different techniques I've learned, such as imbalanced-learn and scikit
 ![SMOTE Oversampling](https://user-images.githubusercontent.com/110737061/206319454-0238cf70-1964-4ec6-84ca-99719a318c6b.png)
 
   - Undersampling
+
 ![Undersampling](https://user-images.githubusercontent.com/110737061/206319502-12813140-ec05-4d4d-ad22-ef7590422587.png)
 
   - Combination Sampling
+
 ![Combination](https://user-images.githubusercontent.com/110737061/206319555-d883713c-54b8-42f9-820f-5777d4256308.png)
 
   - Balanced Random Forest Classifier
