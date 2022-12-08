@@ -55,3 +55,6 @@ Using the different techniques I've learned, such as imbalanced-learn and scikit
     - Balance Accuracy Score (BAS): 93.2%
     - Precision: 99% / Recall: 94%
     - High Risk: 9% / Recall: 92%
+
+## Summary
+Looking at the data we've gathered, we notice that there is low precision based off the amount of high risk. This could indicate a number of false positives. Based off the data, Easy Ensemble AdaBoost Classifier is probably the most reliable and effective of all the models.
